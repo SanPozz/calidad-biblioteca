@@ -21,7 +21,7 @@
         <java.version>17</java.version>
 
         <sonar.organization>sanpozz</sonar.organization>
-        <sonar.projectKey>sanpozz_calidad-biblioteca</sonar.projectKey>
+        <sonar.projectKey>SanPozz_calidad-biblioteca2</sonar.projectKey>
 
         <sonar.coverage.jacoco.xmlReportPaths>
             ${project.build.directory}/site/jacoco/jacoco.xml
