@@ -42,7 +42,7 @@ jobs:
           mvn -B org.sonarsource.scanner.maven:sonar-maven-plugin:sonar \
             -Dsonar.host.url=https://sonarcloud.io \
             -Dsonar.organization=dejaboom-qa \
-            -Dsonar.projectKey=calidad-biblioteca \
+            -Dsonar.projectKey=calidad-biblioteca2 \
             -Dsonar.sources=src/main/java \
             -Dsonar.tests=src/test/java \
             -Dsonar.java.binaries=target/classes \
