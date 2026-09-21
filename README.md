@@ -7,5 +7,3 @@ Funcionalidades:
 - Alta de libros
 - Prestamos
 - Devoluciones
-
-asd
